@@ -1,0 +1,20 @@
+{
+  "name": "2406a4",
+  "version": "1.0.0",
+  "description": "fuck u",
+  "main": "server_with_SQLite_and_Handlebars.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "line-reader": "^0.4.0",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server_with_SQLite_Handlebars.js"
+  },
+  "author": "kiwi jordan",
+  "license": "ISC"
+}
